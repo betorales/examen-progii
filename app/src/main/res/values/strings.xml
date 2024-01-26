@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">examen-progii</string>
+    <string name="title_reading">Registro Medidor</string>
+    <string name="reading_meter">Medidor</string>
+    <string name="date_reading">Fecha</string>
+    <string name="reading_type">Medidor de:</string>
+    <string name="record_reading">Registrar medición</string>
+    <string name="water_type">Agua</string>
+    <string name="electricity_type">Electricidad</string>
+    <string name="gas_type">Gas</string>
+    <string name="add_new_reading">Añadir lectura</string>
+</resources>

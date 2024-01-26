@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_reading">Reading meter</string>
+    <string name="reading_meter">Meter</string>
+    <string name="date_reading">Date</string>
+    <string name="reading_type">Type of meter:</string>
+    <string name="record_reading">Register reading</string>
+    <string name="water_type">Water</string>
+    <string name="electricity_type">Electricity</string>
+    <string name="gas_type">Gas</string>
+    <string name="add_new_reading">Add reading</string>
+</resources>
