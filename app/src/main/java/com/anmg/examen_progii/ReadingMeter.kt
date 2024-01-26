@@ -95,10 +95,10 @@ fun AddNewReading(navController: NavController){
 
             Button(onClick = {
                 navController.navigate("home")
-            /*TODO*/ }) {
+            /*TODO*/
+            }) {
                 Text(text= stringResource(id = R.string.record_reading))
             }
-            //RadioButton(selected = , onClick = { /*TODO*/ })
         }
     }
 
