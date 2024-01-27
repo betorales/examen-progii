@@ -33,11 +33,6 @@ import androidx.navigation.NavController
 @RequiresApi(Build.VERSION_CODES.M)
 @Composable
 fun ShowReadings(navController:NavController){
-    /*
-    * SOLO VISUALIZACIÓN
-    * BORRAR CUANDO SE LOGRE PERSISTIR
-    *
-    * */
     Box(
         modifier=Modifier
             .fillMaxSize()
@@ -55,6 +50,7 @@ fun ShowReadings(navController:NavController){
                 item{
                     Text(text="HARCODED STRING")
                 }
+                //Iterar por sobre la base de datos?
                 item {
                     Icon(Icons.Filled.WaterDrop, contentDescription = null)
                 }
